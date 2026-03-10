@@ -1,1 +1,1 @@
-versão bot pra discord pq eu uso o python 3 (mobile) e quero que o comando seja !obf e o arquivo: .LUA ou .TXT aí o bot obfusca o código e manda em TXT 
+faça um obfuscator de lua roblox utilizando python e versão bot pra discord pq eu uso o python 3 (mobile) e quero que o comando seja !obf e o arquivo: .LUA ou .TXT aí o bot ofusca o código e manda em TXT e vc vai usar esse codigo aqui de base pra ajudar vc fazer eu quero que vc use isto pra fazer so que vai ser em python ;
